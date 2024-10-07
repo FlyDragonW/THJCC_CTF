@@ -1,8 +1,10 @@
 # THJCC_CTF
 
-It's a CTF host by highschool students in Taiwan.
+Writeups: https://flydragonw.github.io/posts/thjcc_writeup/
 
-Here is the source code of my Reverse Challenge
+THJCC is a CTF hosted by highschool students in Taiwan.
+
+I made some reverse cahllenge for this competition.
 
 ## ⚾
 - tag: `Medium`
